@@ -1,0 +1,17 @@
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractice.Business.deps.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractice.Business.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\ref\SolidPractice.Business.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractice.Business.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\ref\SolidPractice.Business.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractice.DataAccess.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\bin\Debug\net5.0\SolidPractices.Entities.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.Business\obj\Debug\net5.0\SolidPractice.Business.csproj.CopyComplete

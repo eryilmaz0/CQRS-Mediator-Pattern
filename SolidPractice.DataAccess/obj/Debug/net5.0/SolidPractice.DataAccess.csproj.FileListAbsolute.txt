@@ -1,0 +1,15 @@
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\SolidPractice.DataAccess.deps.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\ref\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\SolidPractice.DataAccess.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\ref\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\bin\Debug\net5.0\SolidPractices.Entities.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractice.DataAccess\obj\Debug\net5.0\SolidPractice.DataAccess.csproj.CopyComplete

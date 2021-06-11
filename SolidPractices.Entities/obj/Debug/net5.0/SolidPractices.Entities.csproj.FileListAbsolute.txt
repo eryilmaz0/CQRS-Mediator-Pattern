@@ -1,0 +1,15 @@
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\SolidPractices.Entities.deps.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\SolidPractices.Entities.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\SolidPractices.Entities.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\ref\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\bin\Debug\net5.0\SolidPractices.Entities.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\ref\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\SolidPractices.Entities\obj\Debug\net5.0\SolidPractices.Entities.genruntimeconfig.cache

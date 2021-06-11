@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolidPractice.DataAccess\SolidPractice.DataAccess.csproj" />
+    <ProjectReference Include="..\SolidPractices.Entities\SolidPractices.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

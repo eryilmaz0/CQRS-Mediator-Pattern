@@ -1,0 +1,17 @@
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\CQRSBusiness.deps.json
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\CQRSBusiness.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\ref\CQRSBusiness.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\CQRSBusiness.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\SolidPractice.DataAccess.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\SolidPractices.Entities.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\SolidPractice.DataAccess.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\bin\Debug\net5.0\SolidPractices.Entities.pdb
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.csproj.CopyComplete
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\ref\CQRSBusiness.dll
+C:\Users\eren_\Desktop\örnekc#\AkbankBootcampPractices\CQRSBusiness\obj\Debug\net5.0\CQRSBusiness.pdb
